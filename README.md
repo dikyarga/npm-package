@@ -1,7 +1,6 @@
 ## Angka menjadi Terbilang
 
-Paket ini akan merubah angka menjadi kata-kata terbilang dalam Bahasa Indonesia
-Misal, Merubah angka menjadi terbilang, misal 234 menjadi 'dua ratus tiga puluh empat'.
+Paket ini akan merubah angka menjadi kata-kata terbilang dalam Bahasa Indonesia. Misal, 234 menjadi 'dua ratus tiga puluh empat'.
 
 ## Cara Penggunaan
 
