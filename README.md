@@ -15,4 +15,12 @@ Misal, Merubah angka menjadi terbilang, misal 234 menjadi 'dua ratus tiga puluh 
 
 #### Penggunaan
 
-``` console.log(terbilang(245))```
+``` console.log(terbilang(245)) ```
+
+hasil
+
+``` dua ratus tiga puluh empat ```
+
+## Test
+
+``` node test.js ```
