@@ -1,7 +1,8 @@
 {
   "name": "angka-menjadi-terbilang",
   "version": "0.1.1",
-  "description": "Merubah angka menjadi terbilang, misal 234 menjadi 'dua ratus tiga puluh empat'",
+  "description": "Paket ini akan merubah angka menjadi kata-kata terbilang dalam Bahasa Indonesia
+  Misal, Merubah angka menjadi terbilang, misal 234 menjadi 'dua ratus tiga puluh empat'",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
